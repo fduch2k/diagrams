@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2023-11-13T10:24:38.570Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" version="22.1.0" etag="Vt4_J156rKFHGZh8zVB3" type="github">
+  <diagram name="Страница — 1" id="cIqZjlwPQzSNVCdPx0tV">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="标题 План обучения teamlead" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="15" y="15" width="167" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
